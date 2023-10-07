@@ -5,7 +5,7 @@
     font-family: sans-serif;
 }
 body{
-    background-color: black;
+    background-color: rgb(167, 245, 12);
     min-height: 100vh;
     display: flex;
     justify-content: center;
