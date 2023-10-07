@@ -5,6 +5,7 @@
     font-family: sans-serif;
 }
 body{
+    background-color: black;
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -18,8 +19,9 @@ div input[type=number]{
     padding: 8px;
     font-size: 16px;
     width: 100%;
-    background-color: #f7f7f7;
+    background-color: #63f1f8;
     box-shadow: 2px 2px 20px ;
+    border: none;
 }
 div input[type=number]:read-only{
     text-align: center;
